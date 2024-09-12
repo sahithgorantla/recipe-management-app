@@ -1,0 +1,5 @@
+com/foodapp/controller/RecipeController.class
+com/foodapp/RecipeRepository.class
+com/foodapp/models/Recipe.class
+com/foodapp/services/RecipeService.class
+com/foodapp/App.class
